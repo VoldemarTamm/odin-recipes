@@ -1,0 +1,33 @@
+body {
+    background-color: whitesmoke;
+}
+
+.title-homepage {
+    text-align: center;
+    background-color: antiquewhite;
+    border: solid wheat 5px;
+    width: 500px;
+    margin: 50px auto;
+    color: darkslategray;
+}
+
+.title {
+    margin-left: 25px;
+    margin-bottom: 5px;
+    color: darkslategray;
+
+}
+
+.list-container {
+    border-top: solid wheat 5px;
+    width: 500px;
+    text-align: center;
+}
+
+.recipe-link {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: auto;
+    border-bottom: solid wheat 5px;
+    color: darkslategray;
+}
